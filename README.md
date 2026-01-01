@@ -3,7 +3,6 @@
 **Daily Task Manager** is an interactive web app built with **HTML, CSS, and JavaScript**.  
 Easily organize your tasks with a modern interface and automatic **localStorage** persistence.
 
----
 
 ## 🚀 Features
 
@@ -13,7 +12,6 @@ Easily organize your tasks with a modern interface and automatic **localStorage*
 - 💾 **Automatic saving** using Local Storage
 - 🖼️ **Custom icons and background images**
 
----
 
 ## 🛠️ Technologies Used
 
@@ -21,7 +19,6 @@ Easily organize your tasks with a modern interface and automatic **localStorage*
 - 🎨 **CSS3** – Styling and layout
 - ⚙️ **JavaScript (Vanilla JS)** – Application logic
 
----
 
 ## 🧑‍💻 Usage Guide
 
@@ -32,7 +29,6 @@ Easily organize your tasks with a modern interface and automatic **localStorage*
 4. ❌ Click the **× icon** to **delete a task**
 5. 🔄 Tasks are saved automatically and restored on page reload
 
----
 
 ## 🧠 How It Works
 
@@ -41,14 +37,13 @@ Easily organize your tasks with a modern interface and automatic **localStorage*
 - 💾 Tasks are stored in **localStorage** as HTML
 - 🔄 On page load, stored tasks are restored automatically
 
----
 
 ## 🌐 Live Demo
 
 Check out the live version here: [Live Demo](https://sharaf-ahmed-dev.github.io/daily-task-manager/)
 
----
 
 ## ⭐ Support
 
 If you like this project, don’t forget to give it a **star ⭐** on GitHub!  
+
